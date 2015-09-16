@@ -4,6 +4,7 @@ core = 7.x
 package = Cardinal at Work
 version = 7.x-1.0
 project = caw_course_event_series_vocabulary
+project status url = https://github.com/SU-UHR/caw_course_event_series_vocabulary
 dependencies[] = features
 dependencies[] = taxonomy
 dependencies[] = text
